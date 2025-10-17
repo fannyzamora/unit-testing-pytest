@@ -1,0 +1,15 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Fichiers système Mac
+.DS_Store
+
+# Dossier VSCode
+.vscode/
+
+# Logs et fichiers temporaires
+*.log
